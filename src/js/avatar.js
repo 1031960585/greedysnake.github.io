@@ -1,0 +1,1 @@
+export default [require('assets/xieyanxiao.jpg'),require('assets/xiao.png'),require('assets/expression_angry2.png')]

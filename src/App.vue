@@ -1,10 +1,17 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </div>
-  <router-view/>
+
+  <game></game>
+  
 </template>
+
+<script>
+import Game from "views/Game"
+export default {
+  components:{
+Game
+  }
+}
+</script>
 
 <style lang="scss">
 #app {
@@ -21,6 +28,7 @@
   a {
     font-weight: bold;
     color: #2c3e50;
+    text-decoration-line: none;
 
     &.router-link-exact-active {
       color: #42b983;
