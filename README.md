@@ -1,6 +1,6 @@
 # greedysnake
 
-[PLAY GAME](https://1031960585.github.io/greedysnake.github.io "游戏连接")
+[PLAY GAME](https://1031960585.github.io/greedysnake.github.io/dist "游戏连接")
 
 玩家1：<kbd>up</kbd>、<kbd>down</kbd>、<kbd>left</kbd>、<kbd>right</kbd>
 
